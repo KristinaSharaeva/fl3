@@ -1,0 +1,17 @@
+
+1. выполнить pip install -r requirements.txt
+
+2. Инициализоваться:
+   python
+   >>> from app import db
+   >>> db.create_all()
+   >>> exit()
+
+3. Запустиь python app.py
+
+4. В браузере адрес:
+   http://127.0.0.1:5000/register
+
+5. Заполнить форму регистрации нажать "Зарегистрироваться".
+
+
